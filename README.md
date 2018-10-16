@@ -16,17 +16,17 @@
 
 ```
 //Rxjava2
-implementation 'io.reactivex.rxjava2:rxjava:2.1.12'
-implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
+implementation 'io.reactivex.rxjava2:rxjava:2.2.2'
+implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
 //Retrofit2
 implementation 'com.squareup.retrofit2:retrofit:2.4.0'
 implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
 implementation 'com.jakewharton.retrofit:retrofit2-rxjava2-adapter:1.0.0'
 //RxCache
-implementation "com.github.VictorAlbertos.RxCache:runtime:1.8.1-2.x"
-implementation 'com.github.VictorAlbertos.Jolyglot:gson:0.0.3'
+implementation "com.github.VictorAlbertos.RxCache:runtime:1.8.3-2.x"
+implementation 'com.github.VictorAlbertos.Jolyglot:gson:0.0.4'
 //Okhttp-interceptor
-implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
+implementation 'com.squareup.okhttp3:logging-interceptor:3.11.0'
 ```
 
 #### 2、将rxeasyhttp包下的所有内容拷贝到工程；
